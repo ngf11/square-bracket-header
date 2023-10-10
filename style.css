@@ -1,0 +1,20 @@
+* {
+  font-family: "Roboto Mono", monospace;
+}
+body {
+  background-color: rgba(15, 15, 17, 0.878);
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
